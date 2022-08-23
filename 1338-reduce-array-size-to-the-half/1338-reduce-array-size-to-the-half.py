@@ -5,7 +5,6 @@ class Solution:
         
         val = sorted(val.items() , key = lambda kv:kv[1],reverse = True)
         count = 0 
-        print(val)
         c = len(arr)
         last = len(val)
         for key,value in val:
