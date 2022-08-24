@@ -3,7 +3,5 @@ class Solution:
         temp = 1
         while n > temp :
             temp *= 3
-        if n == temp:
-            return True 
-        return False
+        return n == temp
         
