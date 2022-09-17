@@ -4,7 +4,7 @@ class Solution:
         d = {}
         for i,c in enumerate(words):
             d[c] = i
-        if "" in d:                       #  If sapces and pallindrome are present like as in example 3.
+        if "" in d:  
             j = d[""]
             for i in range(len(words)):
                 if i != j and words[i] == words[i][::-1]:
