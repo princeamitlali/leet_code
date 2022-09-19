@@ -15,7 +15,6 @@ class Solution:
         arr[5] = num//5
         num = num % 5
         arr[6] = num
-        print(arr)
         
         st = ""
         if arr[6]<4:
@@ -27,7 +26,7 @@ class Solution:
        
         if arr[5] == 1 and arr[6] != 4:
             st += 'V'
-        print(st)   
+            
         if arr[4]<4:
             st += "X" * arr[4]
         elif arr[3] == 0:
@@ -37,7 +36,7 @@ class Solution:
             
         if arr[3] == 1 and arr[4] != 4:
             st += 'L'
-        print(st)
+        
         if arr[2]<4:
             st += "C" * arr[2]
         elif arr[1] == 0:
@@ -47,10 +46,10 @@ class Solution:
             
         if arr[1] == 1 and arr[2] != 4:
             st += 'D'
-        print(st)
+        
         if arr[0]<4:
             st += "M" * arr[0]
-        print(st)
+        
         return st[::-1]
     
             
