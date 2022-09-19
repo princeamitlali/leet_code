@@ -1,6 +1,6 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
-        dic={"1000":'M',"500":'D',"100":'C',"50":'L',"10":'X',"5":'V',"1":'I'}
+        
         arr = [0,0,0,0,0,0,0]
         arr[0] = num//1000
         num = num % 1000
