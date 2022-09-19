@@ -13,7 +13,6 @@ class Solution:
         top,right = 0,len(matrix[0]) - 1
         while top < len(matrix) and right > -1:
             val = matrix[top][right]
-            print(val)
             if  val == target:
                 return True
             if val < target:
