@@ -11,7 +11,6 @@ class Solution:
             temp = temp.next
             n -= 1
         pre = None
-        print(temp)
         if temp is None:
             root = root.next
             return root
