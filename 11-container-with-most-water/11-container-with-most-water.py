@@ -8,42 +8,15 @@ class Solution:
         temp = height[::-1]
         rmax = [temp[0]]
         for i in range(1,n):
-            rmax.append(max(temp[i],rmax[i-1]))
-        rmax = rmax[::-1]
-        # for i in range(n):
-        #     res += min(rmax[i],lmax[i])
-        # return res
-        print(rmax,lmax)
-        temp = []
-        for i in range(len(rmax)):
-            temp.append(min(rmax[i],lmax[i]))
-        print(temp)
-        temp = sorted(temp)
+            rmax.append(min(max(temp[i],rmax[i-1]),lmax[n-i-1]))
+        rmax = sorted(rmax[::-1])
         ma = 0
-        n = len(temp)
+        n = len(rmax)
         for i in range(n):
-            val = temp[i] * (n-i-1)
+            val = rmax[i] * (n-i-1)
             if val > ma:
                 ma = val
         return ma
-            
-#         rmax = []
-#         pre = height[0]
-        
-#         for i in height:
-#             if i > pre:
-#                 pre = i
-#             rmax.append(pre)
-#         print(rmax)
-#         lmax = []
-#         pre = height[-1]
-#         for i in height[::-1]:
-#             if i > pre:
-#                 pre = i
-#             lmax.append(pre)
-#         print(lmax[::-1])
-#         res = 0
-#         # for i in range()
         
         
         
