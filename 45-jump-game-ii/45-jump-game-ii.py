@@ -6,6 +6,7 @@ class Solution:
             if i == curren_idx:
                 jumps += 1
                 curren_idx = furthest_idx
+            print(jumps, curren_idx, furthest_idx)
         return jumps
         # if len(nums) == 1:
         #     return 0
