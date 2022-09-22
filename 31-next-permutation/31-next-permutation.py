@@ -13,17 +13,14 @@ class Solution:
         if flag == -1:
             nums.reverse()
         else:
-            print(nums[flag])
             for i in range(n-flag-1):
                 val = nums[-i-1]
                 if val > nums[flag]:
                     nums[flag],nums[-i-1] = nums[-i-1],nums[flag]
                     break
-            print(nums)
             left = flag + 1
             right = n-1
             while left < right:
                 nums[left],nums[right] = nums[right],nums[left]
                 left += 1
                 right -= 1
-            print(nums)
