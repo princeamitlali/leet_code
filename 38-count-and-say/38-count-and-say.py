@@ -1,15 +1,12 @@
 from collections import Counter
 class Solution:
     def countAndSay(self, n: int) -> str:
-        c = Counter
         temp = 1
-        val = 0
         if n == 1:
             return "1"
         while n > 1:
             count = 1
             val = str(temp)
-            dic = c(val)
             temp = 0
             if len(val) == 1:
                 temp = 10 + int(val)
