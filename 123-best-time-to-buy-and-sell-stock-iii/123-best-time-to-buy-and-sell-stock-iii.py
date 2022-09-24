@@ -12,7 +12,6 @@ class Solution:
             right_max[i]=max(right_max[i+1],(temp_max-prices[i]))
             temp_max=max(temp_max,prices[i])
         ans=right_max[0]
-        print(left_max,right_max)
         for i in range(1,n):
             ans=max(ans,left_max[i-1]+right_max[i])
         return ans
