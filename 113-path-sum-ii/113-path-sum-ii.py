@@ -7,21 +7,20 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
         ans = []
-        
-        def tree_traversal(root, curr_sum, curr_path):
-            curr_sum += root.val
-            curr_path.append(root.val)
-            if root.left == None  and root.right == None:
-                if curr_sum == targetSum:
-                    ans.append(curr_path)
+        def traverse(root,path):
+            if not root:
                 return
+            path.append(root.val)
+            if root.left is None and root.right is None:
+                if sum(path) == targetSum:
+                    ans.append(path)
             
             if root.left:
-                tree_traversal(root.left, curr_sum, list(curr_path))
-            
-            if root.right:
-                tree_traversal(root.right, curr_sum, list(curr_path))
-        if root:
-            tree_traversal(root, 0, [])
+                traverse(root.left,list(path))
+                
+            if root.right:    
+                traverse(root.right,list(path))
+        if root:        
+            traverse(root,[])
         return ans
         
