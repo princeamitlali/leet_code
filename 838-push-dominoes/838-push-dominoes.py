@@ -4,9 +4,9 @@ class Solution:
         
         while dominoes != temp:
             temp = dominoes
-            dominoes = dominoes.replace('R.L', 'xxx')       # <-- 1)
-            dominoes = dominoes.replace('R.', 'RR')         # <-- 2)
-            dominoes = dominoes.replace('.L', 'LL')         # <-- 2)
+            dominoes = dominoes.replace('R.L', 'xxx').replace('R.', 'RR').replace('.L', 'LL')      
+            # dominoes = dominoes.replace('R.', 'RR')        
+            # dominoes = dominoes.replace('.L', 'LL')         
             # print(dominoes)
         return  dominoes.replace('xxx', 'R.L')
         # n=len(dominoes)
