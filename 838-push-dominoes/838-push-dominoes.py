@@ -7,7 +7,7 @@ class Solution:
             dominoes = dominoes.replace('R.L', 'xxx')       # <-- 1)
             dominoes = dominoes.replace('R.', 'RR')         # <-- 2)
             dominoes = dominoes.replace('.L', 'LL')         # <-- 2)
-            print(dominoes)
+            # print(dominoes)
         return  dominoes.replace('xxx', 'R.L')
         # n=len(dominoes)
         # dominoes=list(dominoes)
