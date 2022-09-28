@@ -14,5 +14,4 @@ class Solution:
                 if dic[p[i]] != v[i]:
                        return False 
         return True
-        # return True and check(pattern,val) and check(val,pattern)
         
