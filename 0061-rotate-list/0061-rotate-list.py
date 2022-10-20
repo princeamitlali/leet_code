@@ -25,12 +25,6 @@ class Solution:
         for _ in range( l - k - 1 ):
             print(temp.val)
             temp = temp.next
-        
-        # Get the next node from the tempNode and then set the tempNode.next as None
-        # Example: In 1->2->3->4->5, and k = 2
-        #          tempNode = Node(3)
-        #          answer = Node(3).next => Node(4)
-        #          Node(3).next = None ( cut the linked list from here )
         answer = temp.next
         temp.next = None
         
