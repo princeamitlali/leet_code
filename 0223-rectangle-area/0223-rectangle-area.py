@@ -6,10 +6,8 @@ class Solution:
         b2 = by2 - by1
         a1 = abs(l1*b1)
         a2 = abs(l2*b2)
-        print(a1+a2)
         cx = max(min(ax2,bx2)-max(ax1,bx1), 0)
         cy = max(min(ay2,by2)-max(ay1,by1), 0)
         ca = abs(cx * cy)
-        print(ca)
         return a1 + a2 - ca
         
