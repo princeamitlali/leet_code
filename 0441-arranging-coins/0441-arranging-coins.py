@@ -1,10 +1,14 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        count = 0
-        s = 0
-        while s+count < n:
-            count +=1
-            s += count  
-
-        return count
+        if n < 3:
+            return 1
+        i = 0
+        while True:
+            i += 1
+            val = i * (i + 1)
+            val = val /2
+            if val > n:
+                return i -1
+            if val == n:
+                return i
         
