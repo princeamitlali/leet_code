@@ -4,9 +4,7 @@ class Solution:
         s = 0
         while s+count < n:
             count +=1
-            s += count
-            # print(s,count)
-        # print(s+count,count)   
+            s += count  
 
         return count
         
