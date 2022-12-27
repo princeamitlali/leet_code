@@ -4,19 +4,18 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        m = 64
+        m = ""
         for i in s:
             # print(ord(i))
             if i.isupper():
                 if i.lower() in s:
                     # print(ord(i))
-                    m = max(m,ord(i))
+                    m = max(m,i)
             else:
                 if i.upper() in s:
                     # print(ord(i.upper()))
-                    m = max(m,ord(i.upper()))
+                    m = max(m,i.upper())
             # print(m)
-        if m < 65:
-            return ""
+       
             
-        return chr(m)
+        return m
