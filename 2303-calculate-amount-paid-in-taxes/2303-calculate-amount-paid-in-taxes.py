@@ -10,7 +10,6 @@ class Solution:
                 
                 tax += ((income-prev) * i[1]) /100
                 return tax
-            print(tax)
         return tax
                 
         
