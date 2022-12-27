@@ -5,10 +5,11 @@ class Solution:
         for i in range(n):
             capacity[i] -= rocks[i]
             
-        # print(capacity)
-        
         capacity.sort()
-        print(capacity)
+        if capacity[0] > additionalRocks:
+            return 0
+        if sum(capacity) < additionalRocks:
+            return n
         for i in range(n):
             s += capacity[i]
             if s > additionalRocks:
