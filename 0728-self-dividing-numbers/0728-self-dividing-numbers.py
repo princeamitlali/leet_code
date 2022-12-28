@@ -10,7 +10,7 @@ class Solution:
         res = []
         for i in range(left,right+1):
             
-            if isSelfDivide(i):
+            if "0" not in str(i) and isSelfDivide(i):
                 res.append(i)
         return res
         
