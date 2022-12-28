@@ -6,7 +6,6 @@ class Solution:
         end = nums[0]
         res = []
         for i in nums:
-            print(start,end,i)
             if i-end > 1:
                 if start != end:
                     res.append(str(start)+"->"+str(end))
