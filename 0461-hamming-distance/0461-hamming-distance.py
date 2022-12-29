@@ -1,11 +1,9 @@
 from math import ceil
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
-        #convert to binary and check where bits not equal
         count = 0
         x = bin(x)[2:]
         y = bin(y)[2:]
-        # print(x,y)
         lx = len(x)
         ly = len(y)
         if lx> ly:
@@ -15,8 +13,9 @@ class Solution:
         else:
             diff = ly - lx
             x = "0" * diff + x
+            lx += diff
         print(x,y)
-        for i in range(len(x)):
+        for i in range(lx):
             if x[i] != y[i]:
                 count += 1
                 
