@@ -14,7 +14,6 @@ class Solution:
             diff = ly - lx
             x = "0" * diff + x
             lx += diff
-        print(x,y)
         for i in range(lx):
             if x[i] != y[i]:
                 count += 1
