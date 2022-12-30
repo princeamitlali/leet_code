@@ -12,7 +12,6 @@ class Solution:
             if o == 0:
                 res.append(r)
                 r = ""
-        print(res)
         for i in res:
             r += i[1:-1]
         return r
