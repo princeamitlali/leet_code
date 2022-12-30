@@ -4,7 +4,6 @@ class Solution:
         c = 0
         for i in range(0,len(rings),2):
             rods[int(rings[i+1])] += rings[i]
-        print(rods)
         for i in rods:
             if i == "":
                 continue
