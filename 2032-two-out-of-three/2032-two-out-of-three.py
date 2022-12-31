@@ -4,7 +4,6 @@ class Solution:
         for i in nums1:
             if i in nums2 or i in nums3:
                 res.append(i)
-                
         for i in nums2:
             if i in nums3:
                 res.append(i)
