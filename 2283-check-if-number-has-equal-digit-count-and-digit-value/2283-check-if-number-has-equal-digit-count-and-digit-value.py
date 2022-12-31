@@ -6,7 +6,7 @@ class Solution:
         print(v)
         
         for i in range(len(num)):
-            print(i,v[str(i)],num[i])
+            # print(i,v[str(i)],num[i])
             if v[str(i)] != int(num[i]):
                 return False
                     
