@@ -7,16 +7,15 @@
 class Solution:
     def deepestLeavesSum(self, root: Optional[TreeNode]) -> int:
         arr = [root,None]
-        res = []
+        # res = []
         temp = []
         sol = 0
         if root is None:
             return []
         while len(arr) > 1:
-            sol = 0
             node = arr.pop(0)
             if node is None:
-                res.append(temp)
+                # res.append(temp)
                 temp = []
                 arr.append(None)
             else:
@@ -27,6 +26,6 @@ class Solution:
                 if node.right:
                     arr.append(node.right)
             sol = sum(temp)
-        res.append(temp)
+        # res.append(temp)
         return sol
         
