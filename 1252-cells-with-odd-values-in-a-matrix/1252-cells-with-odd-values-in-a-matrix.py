@@ -1,7 +1,6 @@
 class Solution:
     def oddCells(self, m: int, n: int, indices: List[List[int]]) -> int:
         val = [[0 ]* n for i in range(m)]
-        print(val)
         for (i,j) in indices:
             
             val[i]=list(map(lambda x: x+1,val[i]))
