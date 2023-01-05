@@ -1,7 +1,9 @@
 class Solution:
     def minOperations(self, n: int) -> int:
-        res = 0
-        for i in range(1,n,2):
-            res += n-i
-        return res
+        if n % 2 == 0:
+            n = n/2
+            return int(n * n)
+        else:
+            n = n //2
+            return int(n*(n+1))
         
