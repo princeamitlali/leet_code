@@ -17,7 +17,6 @@ class Solution:
         for i in dic:
             v = len(dic[i])
             res[v-1] +=1
-        print(res)
         
         return res
         
