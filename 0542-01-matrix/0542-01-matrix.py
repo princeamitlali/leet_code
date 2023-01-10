@@ -18,4 +18,39 @@ class Solution:
                           
                 
             
+        print("here")
+        for i in range(n):
+            for j in range(m):
+                if mat[i][j] != 0:
+                    mat[i][j] = 99999999999999
+        for i in range(n):
+            for j in range(m):
+                l=r=u=p = 999999999999999
+                # print(mat[i][j])
+                if mat[i][j] != 0:
+                    # if -1 < i-1 :
+                    #     l = mat[i-1][j]
+                    #     if l == 0:
+                    #         mat[i][j] = 1
+                    #         continue
+                    if i+1 < n :
+                        r = mat[i+1][j]
+                        if r == 0:
+                            mat[i][j] = 1
+                            continue
+                    # if -1 < j-1 :
+                    #     u = mat[i][j-1]
+                    #     if u == 0:
+                    #         mat[i][j] = 1
+                    #         continue
+                    if j+1 < m :
+                        p = mat[i][j+1]
+                        if p == 0:
+                            mat[i][j] = 1
+                            continue
+                    
+                    # print(l,r,u,p,min(l,r,u,p))
+                    mat[i][j] = min(l,r,u,p) + 1
+                    
+        return mat
         
