@@ -1,5 +1,7 @@
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
+        
+        
         queue = list()
         for n in arr:
             if len(queue) < k: queue.append(n)
