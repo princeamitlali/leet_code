@@ -1,6 +1,7 @@
 import heapq
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
+        #approch 1 heap
         li = []
         for i in range(k):
             li.append( (abs(arr[i] -x),arr[i]))
@@ -13,16 +14,21 @@ class Solution:
             v = heapq.heappop(li)
             res.append(v[1])
         return sorted(res)
-            
-        queue = list()
-        for n in arr:
-            if len(queue) < k: queue.append(n)
-            else:
-                if abs(n-x) < abs(queue[0]-x):
-                    queue.pop(0)
-                    queue.append(n)
+        
+        # approch 2 queue
+        
+#         queue = list()
+#         for n in arr:
+#             if len(queue) < k: queue.append(n)
+#             else:
+#                 if abs(n-x) < abs(queue[0]-x):
+#                     queue.pop(0)
+#                     queue.append(n)
 
-        return queue
+#         return queue
+
+# approch 3 naive
+
 #         if x < min(arr):
 #             ind = 0
 #         elif x > max(arr):
