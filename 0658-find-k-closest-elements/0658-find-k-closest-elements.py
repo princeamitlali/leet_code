@@ -1,7 +1,19 @@
+import heapq
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        
-        
+        li = []
+        for i in range(k):
+            li.append( (abs(arr[i] -x),arr[i]))
+        heapq.heapify(li)
+        for i in arr[k:]:
+            heapq.heappush(li,(abs(i-x),i))
+        # print(li)
+        res = []
+        for i in range(k):
+            v = heapq.heappop(li)
+            res.append(v[1])
+        return sorted(res)
+            
         queue = list()
         for n in arr:
             if len(queue) < k: queue.append(n)
