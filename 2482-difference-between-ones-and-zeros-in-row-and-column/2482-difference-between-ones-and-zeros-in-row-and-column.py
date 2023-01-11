@@ -17,21 +17,20 @@ class Solution:
         ones_col = []
         zero_row = []
         zero_col = []
-
+        trans_grid = [list(i) for i in zip(*grid)]
         for row in grid:
             one = sum(row)
             zero = len(grid[0]) - one
 
             ones_row.append(one)
             zero_row.append(zero)
+        for row in trans_grid:
+            one = sum(row)
+            zero = len(trans_grid[0]) - one
 
-        for c in range(len(grid[0])):
-            current_sum = 0
-            for r in range(len(grid)):
-                current_sum = current_sum + grid[r][c]
+            ones_col.append(one)
+            zero_col.append(zero)
 
-            ones_col.append(current_sum)
-            zero_col.append(len(grid) - current_sum)
 
         result = [[0 for _ in range(len(grid[0]))] for _ in range(len(grid))]
 
