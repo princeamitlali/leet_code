@@ -11,7 +11,6 @@ class Solution:
             for j in range(len(trans[0])):
                 trans[i][j] = v
         trans = [list(i) for i in zip(*trans)]
-        print(trans,matrix)
         for i in range(len(trans)):
             for j in range(len(trans[0])):
                 if trans[i][j] == matrix[i][j]:
