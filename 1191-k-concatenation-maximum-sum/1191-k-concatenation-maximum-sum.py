@@ -1,12 +1,16 @@
 class Solution:
-    def kConcatenationMaxSum(self, nums: List[int], k: int) -> int:
-        def maxSum(k):
-            res = cur = 0
-            for _ in range(k):
-                for num in nums:
-                    cur = max(cur + num, num)
-                    res = max(res, cur)
-            
-            return res
-        
-        return (max(0, k - 2) * max(0, sum(nums)) + maxSum(min(2, k))) % (10 ** 9 + 7)
+    def kadane(self, nums):
+        for i in range(1, len(nums)):
+            if nums[i-1] > 0:
+                nums[i] += nums[i-1]
+        return max(max(nums), 0)
+    
+    def kConcatenationMaxSum(self, arr: List[int], k: int) -> int:
+        sums = sum(arr)
+        mod = 10**9 + 7
+        if k == 1:
+            return self.kadane(arr) % (mod)
+        if sums > 0:
+            return (self.kadane(arr+arr) + (k-2)*sums) % (mod)
+        else:
+            return self.kadane(arr+arr) % (mod)
