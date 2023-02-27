@@ -4,8 +4,7 @@ class Solution:
         res = 0
         j = len(nums)-1
         while j > i:
-            v = str(nums[i]) + str(nums[j])
-            res += int(v)
+            res += int(str(nums[i]) + str(nums[j]))
             i +=1
             j -= 1
         if i == j:
