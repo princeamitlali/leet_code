@@ -8,7 +8,7 @@ class Solution:
             else:
                 v = dic[val]
                 v.append(i)
-                print(v)
+                # print(v)
                 dic[val] = v
         res = []
         for i in dic:
