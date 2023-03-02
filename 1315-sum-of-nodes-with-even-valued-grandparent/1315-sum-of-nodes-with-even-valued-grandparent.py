@@ -15,11 +15,10 @@ class Solution:
             if grand_parent % 2 == 0:
                 if root.left:
                     Solution.res += root.left.val
-                    # traverse(root.left,root.val)
+                  
                 if root.right :
                     Solution.res += root.right.val
-                    # traverse(root.right,root.val)
-                    
+                   
             if root.left:
                 traverse(root.left,root.val)
             if root.right :
