@@ -21,12 +21,10 @@ class Solution:
             return res[:-1]
         res = []
         pl = compress(pattern)
-        # print(pl)
         for i in words:
             if len(set(i)) != len(set(pattern)):
                 continue
             v = compress(i)
-            # print(v)
             dic = {}
             flag = True
             for j in range(len(pl)):
@@ -43,9 +41,6 @@ class Solution:
                         dic[pl[j]] = v[j]
                         
             if flag:
-                res.append(i)
-                
-                
-            
+                res.append(i) 
         return res
         
