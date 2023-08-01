@@ -1,10 +1,7 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
-        count = 0
-        s = 0
-        while s+count < n:
-            count +=1
-            s += count  
-
-        return count
+        i = 1
+        while (i*(i+1)/2)< n+1:
+            i += 1
+        return i-1
         
