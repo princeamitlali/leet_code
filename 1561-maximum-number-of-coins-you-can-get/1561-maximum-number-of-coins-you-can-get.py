@@ -1,14 +1,10 @@
 class Solution:
     def maxCoins(self, piles: List[int]) -> int:
-        v = sorted(piles)
-        res = 0
-        while len(v) >0:
-            v.pop()
-            res += v[-1]
-            v.pop()
-            v.pop(0)
-            # print(v,piles)
+        piles = sorted(piles)
+        c = 0
+        for i in range(len(piles)//3,len(piles),2):
+            c += piles[i]
             
-        return res
+        return c
             
         
