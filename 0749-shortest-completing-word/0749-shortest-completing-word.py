@@ -8,6 +8,8 @@ class Solution:
                 i = i.lower()
                 char_list.append(i)
         for word in words:
+            if len(word) < len(char_list):
+                continue
             char_list_copy = copy.deepcopy(char_list)
             for i in word:
                 if i.isalpha():
