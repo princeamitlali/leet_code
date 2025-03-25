@@ -9,6 +9,5 @@ class Solution:
                 rem_width = 100
            
             rem_width -= width
-            print(rem_width)
         return line + 1 , 100 - rem_width
         
