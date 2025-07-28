@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princeamitlali/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 ## String
@@ -63,4 +64,16 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
