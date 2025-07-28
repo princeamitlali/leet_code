@@ -92,4 +92,8 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/princeamitlali/leet_code/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
