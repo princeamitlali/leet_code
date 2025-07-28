@@ -76,4 +76,20 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
