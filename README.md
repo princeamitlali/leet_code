@@ -98,6 +98,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/princeamitlali/leet_code/tree/master/0584-find-customer-referee) |
 | [1179-game-play-analysis-i](https://github.com/princeamitlali/leet_code/tree/master/1179-game-play-analysis-i) |
 ## Simulation
 |  |
