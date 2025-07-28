@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0824-number-of-lines-to-write-string](https://github.com/princeamitlali/leet_code/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
@@ -44,6 +45,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Sliding Window
 |  |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/princeamitlali/leet_code/tree/master/1179-game-play-analysis-i) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
