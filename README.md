@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0824-number-of-lines-to-write-string](https://github.com/princeamitlali/leet_code/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 ## String
