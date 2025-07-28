@@ -32,6 +32,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princeamitlali/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/princeamitlali/leet_code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0824-number-of-lines-to-write-string](https://github.com/princeamitlali/leet_code/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
