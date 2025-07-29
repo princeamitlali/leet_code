@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/princeamitlali/leet_code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
 | [0598-range-addition-ii](https://github.com/princeamitlali/leet_code/tree/master/0598-range-addition-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
