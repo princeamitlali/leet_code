@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/princeamitlali/leet_code/tree/master/0056-merge-intervals) |
 | [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/princeamitlali/leet_code/tree/master/0598-range-addition-ii) |
@@ -20,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/princeamitlali/leet_code/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
