@@ -60,6 +60,7 @@
 | [0050-powx-n](https://github.com/princeamitlali/leet_code/tree/master/0050-powx-n) |
 | [0598-range-addition-ii](https://github.com/princeamitlali/leet_code/tree/master/0598-range-addition-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/princeamitlali/leet_code/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -167,4 +168,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/princeamitlali/leet_code/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/princeamitlali/leet_code/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
