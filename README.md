@@ -34,6 +34,7 @@
 | [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princeamitlali/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/princeamitlali/leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
@@ -93,6 +94,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/princeamitlali/leet_code/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
 ## Design
