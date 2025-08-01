@@ -57,6 +57,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/princeamitlali/leet_code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/princeamitlali/leet_code/tree/master/0050-powx-n) |
 | [0598-range-addition-ii](https://github.com/princeamitlali/leet_code/tree/master/0598-range-addition-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/princeamitlali/leet_code/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
