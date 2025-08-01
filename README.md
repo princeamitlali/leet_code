@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/princeamitlali/leet_code/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
@@ -149,4 +152,12 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/princeamitlali/leet_code/tree/master/0812-rotate-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/princeamitlali/leet_code/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
