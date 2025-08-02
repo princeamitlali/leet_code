@@ -169,4 +169,8 @@
 | ------- |
 | [0050-powx-n](https://github.com/princeamitlali/leet_code/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/princeamitlali/leet_code/tree/master/2050-count-good-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/princeamitlali/leet_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
