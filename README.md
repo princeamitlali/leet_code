@@ -51,6 +51,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/princeamitlali/leet_code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
+| [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/princeamitlali/leet_code/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/princeamitlali/leet_code/tree/master/0812-rotate-string) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/princeamitlali/leet_code/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1078-remove-outermost-parentheses) |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
@@ -165,6 +168,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
