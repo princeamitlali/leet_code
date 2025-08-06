@@ -24,6 +24,7 @@
 | [0940-fruit-into-baskets](https://github.com/princeamitlali/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sorting
 |  |
@@ -99,11 +100,13 @@
 | [0735-asteroid-collision](https://github.com/princeamitlali/leet_code/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
