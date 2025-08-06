@@ -13,6 +13,7 @@
 | [0152-maximum-product-subarray](https://github.com/princeamitlali/leet_code/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/princeamitlali/leet_code/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/princeamitlali/leet_code/tree/master/0598-range-addition-ii) |
@@ -93,12 +94,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
