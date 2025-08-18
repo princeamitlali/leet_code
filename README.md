@@ -24,6 +24,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/princeamitlali/leet_code/tree/master/0824-number-of-lines-to-write-string) |
 | [0940-fruit-into-baskets](https://github.com/princeamitlali/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
+| [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -84,6 +85,7 @@
 | [0239-sliding-window-maximum](https://github.com/princeamitlali/leet_code/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/princeamitlali/leet_code/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/princeamitlali/leet_code/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
