@@ -102,6 +102,7 @@
 | [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/princeamitlali/leet_code/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/princeamitlali/leet_code/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
@@ -111,6 +112,7 @@
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/princeamitlali/leet_code/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/princeamitlali/leet_code/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/princeamitlali/leet_code/tree/master/0146-lru-cache) |
+| [0937-online-stock-span](https://github.com/princeamitlali/leet_code/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/princeamitlali/leet_code/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/princeamitlali/leet_code/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
