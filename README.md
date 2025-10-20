@@ -26,6 +26,7 @@
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 | [1034-subarrays-with-k-different-integers](https://github.com/princeamitlali/leet_code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -64,6 +65,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/princeamitlali/leet_code/tree/master/0735-asteroid-collision) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Counting
 |  |
 | ------- |
