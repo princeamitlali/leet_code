@@ -66,6 +66,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/princeamitlali/leet_code/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/princeamitlali/leet_code/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/princeamitlali/leet_code/tree/master/0204-count-primes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -237,4 +241,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/princeamitlali/leet_code/tree/master/0937-online-stock-span) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
