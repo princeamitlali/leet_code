@@ -78,6 +78,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/princeamitlali/leet_code/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/princeamitlali/leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -212,6 +213,7 @@
 | ------- |
 | [0078-subsets](https://github.com/princeamitlali/leet_code/tree/master/0078-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/princeamitlali/leet_code/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/princeamitlali/leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
 | ------- |
