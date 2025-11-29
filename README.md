@@ -29,6 +29,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/princeamitlali/leet_code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/princeamitlali/leet_code/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/princeamitlali/leet_code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/princeamitlali/leet_code/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
