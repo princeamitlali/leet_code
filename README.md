@@ -31,6 +31,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/princeamitlali/leet_code/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/princeamitlali/leet_code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3668-restore-finishing-order](https://github.com/princeamitlali/leet_code/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0940-fruit-into-baskets](https://github.com/princeamitlali/leet_code/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 | [1034-subarrays-with-k-different-integers](https://github.com/princeamitlali/leet_code/tree/master/1034-subarrays-with-k-different-integers) |
+| [3668-restore-finishing-order](https://github.com/princeamitlali/leet_code/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
