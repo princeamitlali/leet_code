@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/princeamitlali/leet_code/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/princeamitlali/leet_code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/princeamitlali/leet_code/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/princeamitlali/leet_code/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/princeamitlali/leet_code/tree/master/0152-maximum-product-subarray) |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/princeamitlali/leet_code/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/princeamitlali/leet_code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/princeamitlali/leet_code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
 ## Stack
@@ -194,6 +196,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/princeamitlali/leet_code/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
