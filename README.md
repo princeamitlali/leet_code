@@ -68,6 +68,7 @@
 | [0824-number-of-lines-to-write-string](https://github.com/princeamitlali/leet_code/tree/master/0824-number-of-lines-to-write-string) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1078-remove-outermost-parentheses) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/princeamitlali/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/princeamitlali/leet_code/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -195,6 +196,7 @@
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/princeamitlali/leet_code/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/princeamitlali/leet_code/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## Greedy
 |  |
 | ------- |
