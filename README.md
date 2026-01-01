@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/princeamitlali/leet_code/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/princeamitlali/leet_code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/princeamitlali/leet_code/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/princeamitlali/leet_code/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/princeamitlali/leet_code/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/princeamitlali/leet_code/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/princeamitlali/leet_code/tree/master/0204-count-primes) |
@@ -80,6 +81,7 @@
 | [0007-reverse-integer](https://github.com/princeamitlali/leet_code/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/princeamitlali/leet_code/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/princeamitlali/leet_code/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/princeamitlali/leet_code/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/princeamitlali/leet_code/tree/master/0204-count-primes) |
 | [0598-range-addition-ii](https://github.com/princeamitlali/leet_code/tree/master/0598-range-addition-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
