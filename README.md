@@ -26,6 +26,7 @@
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0824-number-of-lines-to-write-string](https://github.com/princeamitlali/leet_code/tree/master/0824-number-of-lines-to-write-string) |
 | [0940-fruit-into-baskets](https://github.com/princeamitlali/leet_code/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/princeamitlali/leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 | [1034-subarrays-with-k-different-integers](https://github.com/princeamitlali/leet_code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
@@ -54,6 +55,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/princeamitlali/leet_code/tree/master/0594-longest-harmonious-subsequence) |
 | [0749-shortest-completing-word](https://github.com/princeamitlali/leet_code/tree/master/0749-shortest-completing-word) |
 | [0940-fruit-into-baskets](https://github.com/princeamitlali/leet_code/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/princeamitlali/leet_code/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/princeamitlali/leet_code/tree/master/0965-unique-email-addresses) |
 | [1034-subarrays-with-k-different-integers](https://github.com/princeamitlali/leet_code/tree/master/1034-subarrays-with-k-different-integers) |
 | [3668-restore-finishing-order](https://github.com/princeamitlali/leet_code/tree/master/3668-restore-finishing-order) |
