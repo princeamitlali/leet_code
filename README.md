@@ -119,6 +119,7 @@
 | [0055-jump-game](https://github.com/princeamitlali/leet_code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/princeamitlali/leet_code/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/princeamitlali/leet_code/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Stack
 |  |
 | ------- |
