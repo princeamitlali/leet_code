@@ -31,6 +31,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/princeamitlali/leet_code/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/princeamitlali/leet_code/tree/master/1046-max-consecutive-ones-iii) |
 | [1390-four-divisors](https://github.com/princeamitlali/leet_code/tree/master/1390-four-divisors) |
+| [1975-maximum-matrix-sum](https://github.com/princeamitlali/leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/princeamitlali/leet_code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2227-sum-of-subarray-ranges](https://github.com/princeamitlali/leet_code/tree/master/2227-sum-of-subarray-ranges) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/princeamitlali/leet_code/tree/master/0566-reshape-the-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/princeamitlali/leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/princeamitlali/leet_code/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Sliding Window
 |  |
@@ -211,6 +213,7 @@
 | [0055-jump-game](https://github.com/princeamitlali/leet_code/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/princeamitlali/leet_code/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/princeamitlali/leet_code/tree/master/0410-split-array-largest-sum) |
+| [1975-maximum-matrix-sum](https://github.com/princeamitlali/leet_code/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/princeamitlali/leet_code/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
