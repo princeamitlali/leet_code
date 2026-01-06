@@ -162,10 +162,12 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -271,4 +274,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/princeamitlali/leet_code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
