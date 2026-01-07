@@ -163,11 +163,13 @@
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/princeamitlali/leet_code/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/princeamitlali/leet_code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Database
 |  |
 | ------- |
